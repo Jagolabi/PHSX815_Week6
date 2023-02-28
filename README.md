@@ -2,16 +2,18 @@ PHSX815_Week6
 
 # Gaussint
 
-The program available in this repository:
+The programs available in this repository:
 
 * Gaussint.py [Python]
+* MonteCarloInt.py [Python]
 
 # Utilization
 
 The usage of two separate plotting libraries necessitates independent download, setup, and installation by users.
 
 * Sympy (python)
-* numpy       (pyhon)
+* numpy (pyhon)
+* scipy (pyhon)
 
 # Example usage
 
